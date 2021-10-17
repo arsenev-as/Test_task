@@ -18,8 +18,8 @@
 
 3. БД
 Чем отличаются эти запросы:
-1. SELECT * FROM a, b WHERE a.id=b.a_id;
-2. SELECT * FROM a JOIN b ON a.id=b.a_id;
+А) SELECT * FROM a, b WHERE a.id=b.a_id;
+Б) SELECT * FROM a JOIN b ON a.id=b.a_id;
 Пришлите ответ текстом
 
 4. Массивы
