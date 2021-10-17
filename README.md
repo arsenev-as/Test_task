@@ -18,7 +18,9 @@
 
 3. БД
 Чем отличаются эти запросы:
+
 А) SELECT * FROM a, b WHERE a.id=b.a_id;
+
 Б) SELECT * FROM a JOIN b ON a.id=b.a_id;
 Пришлите ответ текстом
 
